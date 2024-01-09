@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>BTT101 E-portfolio</title>
+  <style>
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+    body {
+      font-family: 'Quicksand', sans-serif;
+      background-color: #030027;
+      margin: 30px;
+      padding: 0;
+    }
+    h1 {
+      text-align: center;
+      color: #FFF;
+      margin-top: 50px;
+    }
+    h2 {
+      color: #FFF;
+      border-radius: 20px;
+    }
+    p {
+      background-color: #4EA5D9;
+      padding: 10px;
+      color: #FFF;
+      border-radius: 20px;
+    }
+    .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 50px;
+    }
+    .button {
+      display: inline-block;
+      margin: 10px;
+      padding: 10px 20px;
+      background-color: #4CAF50;
+      color: white;
+      text-align: center;
+      text-decoration: none;
+      font-size: 16px;
+      border-radius: 20px;
+      transition: background-color 0.3s ease;
+      font-family: 'Quicksand', sans-serif;
+    }
+    .button:hover {
+      background-color: #45a049;
+    }
+    
+    html, body {
+      margin: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>My E-Portfolio | Ryan Mohammed</h1>
+  <section>
+    <h2 style="background-color: #4CAF50; color: white; padding: 10px;">My Bio</h2>
+    <p>
+Hello! My name is Ryan Rhys Mohammed, I am 14 years old and I currently attend the highschool of St. Edmund Campion. I enjoy activities such as solving Rubik's Cubes and playing the game of chess. My favorite sport is football (or soccer if you're American) I play for an academy and I love to support my club Manchester United.</p>
+<br>
+  </section>
+  <section>
+    <h2 style="background-color: #4CAF50; color: white; padding: 10px;">My skills (acquired from BTT101)</h2>
+    <p>
+The skills that I have learn from my business and technology course include:
+<br>
+<br>
+          - Knows how to code in HTML
+<br>
+          - Knows how to use word processing software
+<br>
+          - Knows how to use spreadsheet application software
+<br>
+          - Knows how to use presentation software
+<br>
+          - Knows how to use WIX
+<br>
+          - Knows how to create a website
+<br>
+</p>
+  </section>
+  <div class="container">
+<img style="float: left; padding: 20px;" src="Ryan_Mohammed.png" width="200"> 
+  <section>
+    <h2 style="background-color: #4CAF50; color: white; padding: 10px;">My 5 Best pieces of Work:</h2>
+  </section>
+<br>
+  <section>
+    <button style="background-color: #DA3E52;" class="button" onclick="window.open('EPL_Website_Design.png', '_blank')">English Premier League website design</button>
+    <button style="background-color: #DA3E52;" class="button" onclick="window.open('Blog.docx', '_blank')">Blog</button>
+    <button style="background-color: #DA3E52;" class="button" onclick="window.open('AssignGolf_Task.xlsx', '_blank')">GolfAssign Task</button>
+    <button style="background-color: #DA3E52;" class="button" onclick="window.open('Social_Media_Pledge.png', '_blank')">Social Media Pledge</button>
+    <button style="background-color: #DA3E52;" class="button" onclick="window.open('New_Workstation.pdf', '_blank')">New Workstation Task</button>
+  </section>
+  <section>
+    <h2 style="background-color: #4CAF50; color: white; padding: 10px;">How are my skills applied?</h2>
+    <p>
+<b>English Premier League website design:</b> Shows my ability to use presentation softwares for graphic design.
+<br>
+<br>
+<b>Blog:</b> Shows my ability to use word processing softwares. 
+<br>
+<br>
+<b>GolfAssign Task:</b> Shows my ability to use graphic design software.
+<br>
+<br>
+<b>Social Media Pledge:</b> Show my ability to graphic design from scratch.
+<br>
+<br>
+<b>New Workstation Task:</b> Shows my ability to use word processing software.
+<br>
+<br>
+</p>
+  </section>
+</div class="container">
+  <section>
+    <h2 style="background-color: #4CAF50; color: white; padding: 10px;">Why did I choose these assignments?</h2>
+    <p>
+<img style="float: right; padding: 20px;" src="example.png" width="300">
+<b>English Premier League website design:</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim nunc faucibus a pellentesque sit amet. Ipsum a arcu cursus vitae. Varius vel pharetra vel turpis nunc. Sed elementum tempus egestas sed. Dolor sit amet consectetur adipiscing elit ut aliquam purus sit. Est velit egestas dui id ornare arcu odio ut sem. Placerat in egestas erat imperdiet sed euismod nisi porta. Sapien faucibus et molestie ac feugiat. Maecenas volutpat blandit aliquam etiam erat. Accumsan lacus vel facilisis volutpat. Semper eget duis at tellus at. Interdum varius sit amet mattis vulputate enim. Diam sit amet nisl suscipit adipiscing bibendum. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec. Id interdum velit laoreet id donec ultrices. Dignissim convallis aenean et tortor at risus viverra.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+    </p>
+    <p>
+<br>
+<b>Blog:</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim nunc faucibus a pellentesque sit amet. Ipsum a arcu cursus vitae. Varius vel pharetra vel turpis nunc. Sed elementum tempus egestas sed. Dolor sit amet consectetur adipiscing elit ut aliquam purus sit. Est velit egestas dui id ornare arcu odio ut sem. Placerat in egestas erat imperdiet sed euismod nisi porta. Sapien faucibus et molestie ac feugiat. Maecenas volutpat blandit aliquam etiam erat. Accumsan lacus vel facilisis volutpat. Semper eget duis at tellus at. Interdum varius sit amet mattis vulputate enim. Diam sit amet nisl suscipit adipiscing bibendum. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec. Id interdum velit laoreet id donec ultrices. Dignissim convallis aenean et tortor at risus viverra.
+<br>
+<br>
+<b>GolfAssign Task:</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim nunc faucibus a pellentesque sit amet. Ipsum a arcu cursus vitae. Varius vel pharetra vel turpis nunc. Sed elementum tempus egestas sed. Dolor sit amet consectetur adipiscing elit ut aliquam purus sit. Est velit egestas dui id ornare arcu odio ut sem. Placerat in egestas erat imperdiet sed euismod nisi porta. Sapien faucibus et molestie ac feugiat. Maecenas volutpat blandit aliquam etiam erat. Accumsan lacus vel facilisis volutpat. Semper eget duis at tellus at. Interdum varius sit amet mattis vulputate enim. Diam sit amet nisl suscipit adipiscing bibendum. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec. Id interdum velit laoreet id donec ultrices. Dignissim convallis aenean et tortor at risus viverra.
+<br>
+<br>
+<b>Social Media Pledge:</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim nunc faucibus a pellentesque sit amet. Ipsum a arcu cursus vitae. Varius vel pharetra vel turpis nunc. Sed elementum tempus egestas sed. Dolor sit amet consectetur adipiscing elit ut aliquam purus sit. Est velit egestas dui id ornare arcu odio ut sem. Placerat in egestas erat imperdiet sed euismod nisi porta. Sapien faucibus et molestie ac feugiat. Maecenas volutpat blandit aliquam etiam erat. Accumsan lacus vel facilisis volutpat. Semper eget duis at tellus at. Interdum varius sit amet mattis vulputate enim. Diam sit amet nisl suscipit adipiscing bibendum. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec. Id interdum velit laoreet id donec ultrices. Dignissim convallis aenean et tortor at risus viverra.
+<br>
+<br>
+<b>New Workstation Task:</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim nunc faucibus a pellentesque sit amet. Ipsum a arcu cursus vitae. Varius vel pharetra vel turpis nunc. Sed elementum tempus egestas sed. Dolor sit amet consectetur adipiscing elit ut aliquam purus sit. Est velit egestas dui id ornare arcu odio ut sem. Placerat in egestas erat imperdiet sed euismod nisi porta. Sapien faucibus et molestie ac feugiat. Maecenas volutpat blandit aliquam etiam erat. Accumsan lacus vel facilisis volutpat. Semper eget duis at tellus at. Interdum varius sit amet mattis vulputate enim. Diam sit amet nisl suscipit adipiscing bibendum. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec. Id interdum velit laoreet id donec ultrices. Dignissim convallis aenean et tortor at risus viverra.
+<br>
+<br>
+</p>
+  </section>
+  </div>
+</body>
+</html>
